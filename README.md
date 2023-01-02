@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AlexeyNarush
 - 👀 I’m interested in Machine Learning and Mobile App Development
-- 🌱 I’m currently learning Assembly language and C/C# for my education process
+- 🌱 I’m currently learning Python and C/C# for my education process
 - 💞️ I’m looking to collaborate on projects made to make a difference in human live
 - 📫 How to reach me: 
   e-mail: alexey.narush@gmail.com
