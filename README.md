@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and C/C# for my education process
 - 💞️ I’m looking to collaborate on projects made to make a difference in human live
 - 📫 How to reach me: 
-  e-mail: alexey.narush@gmail.com
+  e-mail: alexey.narush@gmail.com, me@narush.dev
   LinkedIn: www.linkedin.com/in/alexey-narush
   Facebook: https://www.facebook.com/alexey.narush
 
